@@ -1,4 +1,5 @@
-*Link Swapper*
+Link Swapper
+============
 
 The link swapper is a simple js script that swaps multiple links out of a document.
 
